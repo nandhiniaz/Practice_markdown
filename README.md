@@ -23,7 +23,7 @@ This guide will walk you through setting up your GitHub account and getting star
 
 
 ## Part 1: Configuring your GitHub account
----------------
+---
 
 The first steps in starting with GitHub are to create an account, choose a product that fits your needs best, verify your email, set up two-factor authentication, and view your profile.
 

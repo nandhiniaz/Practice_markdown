@@ -43,27 +43,27 @@ When you create a personal account or organization, you must select a billing pl
   4. Follow the prompts to create your personal account or organization.
 
 or you can signup to github
-  1. Go to [Signup Page](https://github.com/signup)
+  1. Go to [Signup Page](https://github.com/signup)<br />
   <img src='Github_documentation_poc/signupemail.JPG'>
-  2. Enter your email id.
-  3. Create a Password and Click on **Continue**. Follow **Creating a strong password** to secure your account.
-  4. Enter a User name and click on **Continue**
-  <img src='Github_documentation_poc/signup_with_user.JPG'>
-  5. Type **n** for Would you like to receive product updates and announcements via email? text box. and click **Continue**
-  6. Verify your account by solving the Puzzle.
-  <img src='Github_documentation_poc/verify_your_account.JPG'>
-  7. Click on Create Account 
-  <img src='Github_documentation_poc/verified_account.JPG'>
-  8. Enter the verification code send to your Email Id and Click on Enter.
-  <img src='Github_documentation_poc/verify_email_with_code.JPG'>
-  9. Wahoo!! your Github account has been created. Continue by entering your details 
-  <img src='Github_documentation_poc/team_member_details.JPG'>
-  10. Enter your area of Interest and click **Continue**
-  <img src='Github_documentation_poc/intersted_services.JPG'>
-  11. Choose your pricing Plan 
-  <img src='Github_documentation_poc/choose_your_plan.JPG'>
-  12. You are Done creating a Github account you will be taken to the Dashboard.
-  <img src='Github_documentation_poc/account_created.JPG'>
+  2. Enter your email id.<br />
+  3. Create a Password and Click on Continue. Follow Creating a strong password to secure your account.<br />
+  4. Enter a User name and click on Continue<br />
+  <img src='Github_documentation_poc/signup_with_user.JPG'><br />
+  5. Type n for Would you like to receive product updates and announcements via email? text box. and click Continue<br />
+  6. Verify your account by solving the Puzzle.<br />
+  <img src='Github_documentation_poc/verify_your_account.JPG'><br />
+  7. Click on Create Account <br />
+  <img src='Github_documentation_poc/verified_account.JPG'><br />
+  8. Enter the verification code send to your Email Id and Click on Enter.<br />
+  <img src='Github_documentation_poc/verify_email_with_code.JPG'><br />
+  9. Wahoo!! your Github account has been created. Continue by entering your details <br />
+  <img src='Github_documentation_poc/team_member_details.JPG'><br />
+  10. Enter your area of Interest and click Continue<br />
+  <img src='Github_documentation_poc/intersted_services.JPG'><br />
+  11. Choose your pricing Plan <br />
+  <img src='Github_documentation_poc/choose_your_plan.JPG'><br />
+  12. You are Done creating a Github account you will be taken to the Dashboard.<br />
+  <img src='Github_documentation_poc/account_created.JPG'><br />
 
 To keep your GitHub account secure you should use a strong and unique password. For more information, see [Creating a strong password](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-strong-password).
 # Creating a strong password

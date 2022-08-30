@@ -47,26 +47,26 @@ When you create a personal account or organization, you must select a billing pl
 
 or you can signup to github
   1. Go to [Signup Page](https://github.com/signup)
-  <img src='signupemail.JPG'>
+  <img src='Github_documentation_poc/signupemail.JPG'>
   2. Enter your email id
   3. Create a Password and Click on **Continue**. Follow **Creating a strong password** to secure your account.
   4. Enter a User name and click on **Continue**
-  <img src='signup_with_user.JPG'>
+  <img src='Github_documentation_poc/signup_with_user.JPG'>
   5. Type **n** for Would you like to receive product updates and announcements via email? text box. and click **Continue**
   6. Verify your account by solving the Puzzle.
-  <img src='verify_your_account.JPG'>
+  <img src='Github_documentation_poc/verify_your_account.JPG'>
   7. Click on Create Account 
-  <img src='verified_account.JPG'>
+  <img src='Github_documentation_poc/verified_account.JPG'>
   8. Enter the verification code send to your Email Id and Click on Enter.
-  <img src='verify_email_with_code.JPG'>
+  <img src='Github_documentation_poc/verify_email_with_code.JPG'>
   9. Wahoo!! your Github account has been created. Continue by entering your details 
-  <img src='team_member_details.JPG'>
+  <img src='Github_documentation_poc/team_member_details.JPG'>
   10. Enter your area of Interest and click **Continue**
-  <img src='intersted_services.JPG'>
+  <img src='Github_documentation_poc/intersted_services.JPG'>
   11. Choose your pricing Plan 
-  <img src ='choose_your_plan.JPG'>
+  <img src='Github_documentation_poc/choose_your_plan.JPG'>
   12. You are Done creating a Github account you will be taken to the Dashboard.
-  <img src='account_created.JPG'>
+  <img src='Github_documentation_poc/account_created.JPG'>
 
 To keep your GitHub account secure you should use a strong and unique password. For more information, see [Creating a strong password](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-strong-password).
 # Creating a strong password
@@ -120,12 +120,12 @@ If you do not verify your email address, you will not be able to:
 In the upper-right corner of any page, click your profile photo, then click **Settings**.
 
 
-<img src='settings_git.JPG' width="150" height="350" align="center">
+<img src='Github_documentation_poc/settings_git.JPG' width="150" height="350" align="center">
 
 
 In the "Access" section of the sidebar, click  **Emails.**
 
-<img src='emailverification.JPG'  align="center">
+<img src='Github_documentation_poc/emailverification.JPG'  align="center">
 
 Under your email address, click Resend verification email.
 **Resend verification email link**

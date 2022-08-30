@@ -45,7 +45,7 @@ When you create a personal account or organization, you must select a billing pl
 or you can signup to github
   1. Go to [Signup Page](https://github.com/signup)
   <img src='Github_documentation_poc/signupemail.JPG'>
-  2. Enter your email id
+  2. Enter your email id.
   3. Create a Password and Click on **Continue**. Follow **Creating a strong password** to secure your account.
   4. Enter a User name and click on **Continue**
   <img src='Github_documentation_poc/signup_with_user.JPG'>

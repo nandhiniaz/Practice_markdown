@@ -23,7 +23,6 @@ This guide will walk you through setting up your GitHub account and getting star
 
 
 ## Part 1: Configuring your GitHub account
----
 
 The first steps in starting with GitHub are to create an account, choose a product that fits your needs best, verify your email, set up two-factor authentication, and view your profile.
 
@@ -33,13 +32,11 @@ There are several types of accounts on GitHub. Every person who uses GitHub has 
 To sign up for an account on [GitHub.com](https://github.com/), and follow the prompts.
 
 ## About new accounts on GitHub.com 
----
 You can create a personal account, which serves as your identity on [GitHub.com](https://github.com/), or an organization, which allows multiple personal accounts to collaborate across multiple projects. For more information about account types, see [Types of GitHub accounts.](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts)
 
 When you create a personal account or organization, you must select a billing plan for the account. For more information, see [GitHub's products.](https://docs.github.com/en/get-started/learning-about-github/githubs-products)
 
 ## Signing up for a new account
----
   1. If you want to create a new personal account, make sure you are currently signed out of GitHub.
   2. Go to [GitHub's Pricing page](https://github.com/pricing).
   3. Read the information about the different products and subscriptions that GitHub offers, then click the upgrade button under the subscription you'd like to choose.
@@ -99,7 +96,6 @@ To ensure you can use all the features in your GitHub plan, verify your email ad
 Verifying your primary email address ensures strengthened security, allows GitHub staff to better assist you if you forget your password, and gives you access to more features on GitHub.
 
 #### About email verification
----
 You can verify your email address after signing up for a new account, or when you add a new email address. If an email address is undeliverable or bouncing, it will be unverified.
 
 If you do not verify your email address, you will not be able to:
@@ -134,7 +130,6 @@ GitHub will send you an email with a link in it. After you click that link, you'
 Banner confirming that your email was verified
 
 ### Troubleshooting email verification
----
 Unable to send verification email
 You cannot verify email addresses from disposable email address services (services that allow you to receive email at a temporary address that expires after a certain time). If you'd like to keep your email address private, you can use a GitHub-provided noreply email address. For more information, see [Setting your commit email address on GitHub.](https://docs.github.com/en/articles/setting-your-commit-email-address#setting-your-commit-email-address-on-github)
 
